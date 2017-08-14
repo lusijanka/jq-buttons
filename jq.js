@@ -14,5 +14,3 @@ $function() {
 			alert($(this)).attr("data-tmp"));
 	});
 };
-
-//line 10 '"?
